@@ -8,5 +8,6 @@ emacs -nw
 Per dividere in 2 la wondow uso
 
 ```
-C-x 2
+C-x 2 
+C-x 3
 ```
