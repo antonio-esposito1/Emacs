@@ -55,3 +55,10 @@ M-b
 ```
 M-r
 ```
+### Inizio e fine del buffer
+
+```
+M->
+M-<
+
+```
