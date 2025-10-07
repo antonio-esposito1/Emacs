@@ -8,17 +8,23 @@ emacs -nw main.py
 ```
 Per dividere in 2 la window uso
 
+## Gestire i file
 ```
 C-x 2 
 C-x 3
 ```
+### Salvare un file
 
-Per uscire da Emacs
+```
+C-x C-s
+```
+
+### Per uscire da Emacs
 
 ```
 C-x C-C
 ```
-Per sospendere Emacs
+### Per sospendere Emacs
 ```
 C-x C-z
 ```
