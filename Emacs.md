@@ -22,3 +22,24 @@ Per sospendere Emacs
 ```
 C-x C-z
 ```
+## Spostare il point
+### Spostare il point di un carattere
+
+```
+C-f 
+C-b
+C-n
+C-p
+```
+
+### Inizio di una linea
+
+```
+C-a
+```
+
+### Fine di una riga
+
+```
+C-e
+```
