@@ -68,3 +68,29 @@ M->
 M-<
 
 ```
+## il minibuffer
+premendo M-x si entra nel minibuffer e emacs attede un comadno, per uscire da minibuffer premere c-g
+
+```
+M-x
+C-g
+```
+
+## kill buffer
+
+```
+C-x k
+```
+
+## Lavorare con python
+
+## Avviare un interpete python
+
+```
+M-x run-python
+M-x python-shell-send-buffer
+
+oppure
+
+C-c C-C
+```
