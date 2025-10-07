@@ -43,3 +43,15 @@ C-a
 ```
 C-e
 ```
+### Sposta di una parola
+
+```
+M-f
+M-b
+```
+
+### Sposta il point al centro del testo poi all'inizio e poi alla fine ciclicamente
+
+```
+M-r
+```
