@@ -82,6 +82,17 @@ C-g
 C-x k
 ```
 
+## Copy-Paste
+- la prima cosa è marcare il cursore con C-space
+- poi portare il cursore nel punto in cui si dedidera copiare fino alla marcatura M-w
+- portare il cursore dove si desidera inclollare C-y
+
+## Cut-Paste
+- la prima cosa è marcare il cursore con C-space
+- poi portare il cursore nel punto in cui si dedidera tagliare fino alla marcatura C-w
+- portare il cursore dove si desidera inclollare C-y
+
+
 ## Lavorare con python
 
 ## Avviare un interpete python
