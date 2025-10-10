@@ -95,7 +95,7 @@ C-x k
 
 ## Lavorare con python
 
-## Avviare un interpete python
+### Avviare un interpete python
 
 ```
 M-x run-python
@@ -104,4 +104,9 @@ M-x python-shell-send-buffer
 oppure
 
 C-c C-C
+```
+
+## Aprire una shell
+```
+M-x shell
 ```
