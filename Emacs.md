@@ -9,8 +9,13 @@ emacs -nw main.py
 Per dividere in 2 la window uso
 
 ## Gestire i file
+
+### Dividere lo schermo in orizzontale
 ```
-C-x 2 
+C-x 2
+```
+### Dividere lo schermo in verticale
+```
 C-x 3
 ```
 ### Salvare un file
