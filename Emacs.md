@@ -18,6 +18,16 @@ C-x 2
 ```
 C-x 3
 ```
+
+### Chiudi la finestra corrente
+```
+C-x o
+```
+### 
+
+```
+C-x 1
+```
 ### Salvare un file
 
 ```
