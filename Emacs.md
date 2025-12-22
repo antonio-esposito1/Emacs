@@ -135,3 +135,9 @@ C-/
 ```
 M-/
 ```
+## Commentare una regione di codice
+Prima seleziona le regione che vuoi commentare
+
+```
+M-;
+```
