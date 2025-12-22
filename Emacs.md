@@ -83,6 +83,11 @@ M->
 M-<
 
 ```
+## sposta il point alla linea numero 
+premere ALT e due volte g, verra chiesto un "go to line":
+```
+M-g g 
+```
 ## il minibuffer
 premendo M-x si entra nel minibuffer e emacs attede un comadno, per uscire da minibuffer premere c-g
 
