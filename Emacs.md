@@ -141,3 +141,9 @@ Prima seleziona le regione che vuoi commentare
 ```
 M-;
 ```
+
+## indentare una regione
+
+```
+C-x TAB 
+```
