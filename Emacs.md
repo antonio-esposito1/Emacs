@@ -130,3 +130,8 @@ M-x shell
 ```
 C-/
 ```
+
+## Auto Complete
+```
+M-/
+```
