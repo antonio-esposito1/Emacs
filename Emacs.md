@@ -149,6 +149,9 @@ M-;
 
 ## indentare una regione
 
+## Esportare un file in PDF
+C-c C-e l p
+
 ```
 C-x TAB 
 ```
